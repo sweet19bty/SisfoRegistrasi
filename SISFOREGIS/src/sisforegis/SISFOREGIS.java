@@ -16,7 +16,7 @@ public class SISFOREGIS {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("perubahan ketua");
+        System.out.println("perubahan ketua ");
     }
     
 }
